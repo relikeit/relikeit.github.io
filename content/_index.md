@@ -4,7 +4,11 @@ toc: false
 ---
 
 Welcome to my photo gallery
+
 Benvenuti nella mia galleria fotografica
+
+> [!NOTE]
+> 即使用户只是浏览内容，也应该知道的有用信息。
 
 ## Explore
 
