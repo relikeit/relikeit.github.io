@@ -1,9 +1,10 @@
 ---
-title: My Site
+title: My photo gallery
 toc: false
 ---
 
-This is the landing page.
+Welcome to my photo gallery
+Benvenuti nella mia galleria fotografica
 
 ## Explore
 
