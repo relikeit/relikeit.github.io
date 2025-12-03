@@ -3,7 +3,10 @@ title: My photo gallery
 toc: false
 ---
 
+
 Welcome to my photo gallery
+
+<span class="text-gradient">由 Markdown 和 Hugo 驱动</span>
 
 Benvenuti nella mia galleria fotografica
 
